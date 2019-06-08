@@ -34,8 +34,8 @@ var speechModule = (function () {
 	}
 
 	var _commands = {
-		'locate the machine': _writeWrapper('Target can not be reached !'),
-		'where are you': _writeWrapper("I am everywhere , i am god"),
+		'locate Threats': _writeWrapper('Target can not be Found I Am A Sample Of Reconnaissance My Cognitive Functions Are Not Working At The Momment!'),
+		'where are you': _writeWrapper("I am everywhere , i am Reconnaissance"),
 		'who am I': _writeWrapper("ADMIN"),
 		'who are you': _writeWrapper('i am Reconnaissance !'),
 		'find my location': _writeWrapper('Locating You ADMIN ?'),

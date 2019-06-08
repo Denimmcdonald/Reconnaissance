@@ -40,3 +40,5 @@ Jeiel Aranal [@chemikhazi](http://twitter.com/chemikhazi)
 Alexandru Simandi
 <br />
 and [all the other contributors](https://github.com/rodrigograca31/Samaritan/graphs/contributors)
+
+more soon

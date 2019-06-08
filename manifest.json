@@ -1,9 +1,9 @@
 {
     "lang": "en",
     "dir": "ltr",
-    "name": "Samaritan",
-    "description": "Samaritan in your phone/PC",
-    "short_name": "Samaritan",
+    "name": "Reconnaissance",
+    "description": "Reconnaissance in your phone/PC",
+    "short_name": "Reconnaissance",
     "icons": [
         {
             "src": "img/icon.png",

@@ -1,4 +1,4 @@
-[Reconnaissance 2.0!]
+[Reconnaissance 2.0]
 =========
 
 Available speech commands:

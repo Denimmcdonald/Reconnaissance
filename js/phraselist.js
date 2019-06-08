@@ -4,6 +4,6 @@ var phraselist = [
 	"Investigation ongoing",
 	"Calculating Response",
 	"There is no alternative.",
-	"Find the Machine",
+	"Searching For Threats",
 	"Stop it. Now."
 ]

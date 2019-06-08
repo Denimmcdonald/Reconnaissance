@@ -284,4 +284,3 @@ var samaritanModule = (function () {
 	};
 
 })();
-

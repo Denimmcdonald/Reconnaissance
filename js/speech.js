@@ -49,6 +49,7 @@ var speechModule = (function () {
 		'find (me) *name': _flickrSearch,
 		'search (for) *name': _flickrSearch,
 		'show (me) *name': _flickrSearch,
+		'hello': _writeWrapper('hello admin how are you')
 		//repeats everything if it's not one of the above
 		'*phrase': function (phrase) {
 			samaritanModule.write(phrase);

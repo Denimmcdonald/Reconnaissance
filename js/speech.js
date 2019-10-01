@@ -37,6 +37,7 @@ var speechModule = (function () {
 		'locate Threats': _writeWrapper('Target can not be Found I Am A Sample Of Reconnaissance My Cognitive Functions Are Not Working At The Momment!'),
 		'where are you': _writeWrapper("I am everywhere , i am Reconnaissance"),
 		'who am I': _writeWrapper("ADMIN"),
+		'will the united states fall': _writeWrapper('yes one day'),
 		'who are you': _writeWrapper('i am Reconnaissance !'),
 		'find my location': _writeWrapper('Locating You ADMIN ?'),
 		'yes': _writeWrapper('yes what ?'),
